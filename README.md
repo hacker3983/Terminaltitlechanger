@@ -12,5 +12,5 @@ cd Terminaltitlechanger && mv title.sh /usr/bin/ && chmod +x /usr/bin/title.sh
 ```
 # you can go into any directory to run the title.sh
 title.sh
-# enter the title you wan to set on your terminal
+# enter the title you want to set on your terminal
 ```
